@@ -9,7 +9,10 @@ setup(
     install_requires=[
         "pytest",
         "matplotlib",
+        "numpy",
         "pandas",
-        "networkx",
+        "scikit-learn",
+        "tqdm",
+        "ipykernel",
     ],
 )

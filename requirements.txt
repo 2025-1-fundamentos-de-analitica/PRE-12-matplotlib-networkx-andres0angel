@@ -1,4 +1,7 @@
 pytest
 matplotlib
-networkx
+numpy
 pandas
+scikit-learn
+tqdm
+ipykernel
